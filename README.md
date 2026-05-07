@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! I'm Anirudh Sandeep Gupta, a B.Tech CSE student at IIIT Kottayam.  
-Passionate about AI, automation, and backend development, with a strong interest in building real-world intelligent systems.
+Passionate about AI, automation, and backend development, with a strong interest in building real-world intelligent systems.<br><br>
 🔭 I’m currently working on AI/ML and backend development projects  <br>👯 I’m looking to collaborate on ML, backend, and open-source projects  <br>🤝 I’m looking for help with advanced machine learning and system design  <br>🌱 I’m currently learning Machine Learning and Backend Development  <br>💬 Ask me about Python, DSA, backend development, and ML  <br>⚡ Fun fact: I enjoy football, video games, and building cool tech projects
 
 
